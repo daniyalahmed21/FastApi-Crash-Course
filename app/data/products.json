@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999.99,
+        "in_stock": true
+        },
+        {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 499.99,
+        "in_stock": true
+        },
+        {
+        "id": 3,
+        "name": "Tablet",
+        "price": 299.99,
+        "in_stock": false
+        }
+    ]
+}
