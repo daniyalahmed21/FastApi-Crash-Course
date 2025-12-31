@@ -5,3 +5,4 @@ def get_products():
     with open("./data/products.json") as f:
         products = json.load(f)
     return products
+    
